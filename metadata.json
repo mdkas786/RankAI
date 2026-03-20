@@ -1,0 +1,5 @@
+{
+  "name": "RankSathi Backend",
+  "description": "Backend API for RRB ALP CBT-1 Score Calculator. Fetches and parses Digialm answer keys to calculate scores and ranks.",
+  "requestFramePermissions": []
+}
